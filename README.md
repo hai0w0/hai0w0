@@ -12,7 +12,7 @@ Introduction to cybersecurity
 
 # 📫 Connect with me  
 GitHub: [hai0w0](https://github.com/hai0w0)  
-LinkedIn:   
+LinkedIn: https://www.linkedin.com/in/hai0w0/
 Email: trandinhhai24092003@gmail.com  
 
 
