@@ -6,9 +6,9 @@ I spent 1 hour coding and 5 days debugging my code!
 Ask me about C++, Java and maybe Python  
 
 # 🌱 I’m currently learning  
-Full-stack development with React and Node.js  
-Embedded Systems with Arduino  
-Introduction to cybersecurity  
+Computing Theory  
+Embedded Systems with Nuvoton  
+Google Cybersecurity Professional Certificate 
 
 # 📫 Connect with me  
 GitHub: [hai0w0](https://github.com/hai0w0)  
