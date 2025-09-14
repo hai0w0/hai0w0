@@ -2,7 +2,9 @@
 
 # 👋 Hello, I'm Brian!  
 A Software Engineering degree (Honours)  |  PwC Vietnam Cybersecurity Intern
-I spent 1 hour coding and 5 days debugging my code!    
+
+I spent 1 hour coding and 5 days debugging my code! 
+
 Ask me about C++, Java and maybe Python  
 
 # 🌱 I’m currently learning  
