@@ -8,8 +8,8 @@ I spent 1 hour coding and 5 days debugging my code!
 Ask me about C++, Java and maybe Python  
 
 # 🌱 I’m currently learning  
-Computing Theory  
-Embedded Systems with Nuvoton  
+Computer and Internet Forensics  
+Usability Engineering  
 Google Cybersecurity Professional Certificate 
 
 # 📫 Connect with me  
@@ -27,9 +27,6 @@ Email: trandinhhai24092003@gmail.com
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hai0w0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hai0w0&icon=0&color=0)](https://visitcount.itsvg.in)
